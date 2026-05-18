@@ -17,16 +17,7 @@ hermes              # 交互模式（默认 profile: main）
 
 ## Profile 配置
 
-### profile: main（私人秘书）
-- 飞书 Bot app_id: `cli_a97c54136a78de18`
-- 飞书私聊 & 本地 CLI 使用
-- 默认模型：xiaomi-mimo（可切换 deepseek-chat）
-
-### profile: scout（情报官）
-- 飞书 Bot app_id: `cli_a976cb0616f8de17`
-- 监听灵感池群消息
-- 自动提取链接内容 → 存入分身库（ChromaDB）
-- 手动启动：`hermes -p scout gateway run`
+运行两个独立 Hermes 实例，分别用于不同场景。
 
 ## 模型配置
 
