@@ -1,34 +1,32 @@
-# AI × Web3 Learning Journey
+# AI × Web3 School - Cohort 0
 
-Exploring the intersection of AI Agents and Blockchain, from a designer's perspective.
+Personal learning journal and proof-of-work for AI × Web3 School.
 
-## Directory Structure
+## 目录结构
 
 ```
-ai-web3-learn/
+ai-web3-school-cohort-0/
 ├── README.md
-├── resources.md
-├── week1/
-│   ├── notes/
-│   ├── prompts/
-│   ├── demos/
-│   └── logs/
-├── week2/
-├── week3/
-└── ...
+├── profile.md
+├── learning-plan.md
+├── daily/                  ← 每日学习笔记
+├── tasks/                  ← 课程任务记录
+├── experiments/            ← 交叉实验
+├── handbook-feedback/      ← Handbook 反馈
+├── hackathon/              ← Hackathon 项目
+├── submissions/            ← 提交物
+└── templates/              ← 模板
 ```
 
-## Progress
+## 资源链接
 
-| Week | Content | Status |
-|------|---------|--------|
-| Week 1 | Learning Agent + GitHub Repo + Web3 Basics + Cross Experiment | In Progress |
+- Handbook：https://aiweb3.school/zh/handbook/
+- WCB 课程：https://web3career.build/zh/programs/AI-Web3-School
+- WCB Learning：https://web3career.build/zh/programs/AI-Web3-School#tab=learning
 
-## Goals
+## ⚠️ 隐私提醒
 
-1. Understand Web3 fundamentals: accounts, wallets, signatures, gas, smart contracts
-2. Master the interaction pattern between AI Agents and on-chain execution
-3. Build a portfolio-worthy case study at the AI × Web3 intersection
+本仓库为 public 仓库，不要放入任何隐私信息（API Key、私钥、助记词等）。
 
 ---
 
