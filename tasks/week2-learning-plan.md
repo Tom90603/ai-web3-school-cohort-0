@@ -31,10 +31,10 @@
 - [ ] **产出**：整理 2-3 个 PM 视角的思考（机器支付是真需求还是叙事？Gas 费超过支付金额怎么办？）
 
 ### 4. 🆔 Agent 身份与信任
-- [ ] [Agent Identity](https://aiweb3.school/zh/handbook/bridge/agent-identity/)
-- [ ] [Agent Trust & Reputation](https://aiweb3.school/zh/handbook/bridge/agent-trust-and-reputation/)
-- [ ] [Verifiable AI](https://aiweb3.school/zh/handbook/bridge/verifiable-ai/)
-- [ ] **产出**：一张对比表——传统 vs 区块链在身份/授权/信任/可验证性上的差异
+- [x] [Agent Identity](https://aiweb3.school/zh/handbook/bridge/agent-identity/)
+- [x] [Agent Trust & Reputation](https://aiweb3.school/zh/handbook/bridge/agent-trust-and-reputation/)
+- [x] [Verifiable AI](https://aiweb3.school/zh/handbook/bridge/verifiable-ai/)
+- [x] **产出**：[传统 vs 区块链对比表](../experiments/identity-trust-verifiable-comparison.md)
 
 ### 5. 🧭 Hackathon 方向决定
 Week3 启动 Hackathon，这里要定方向了：
